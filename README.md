@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align='center'>Hello 👋 Welcome To My Github</h1> 
+<h3 align='center'>Full Stack Developer</h3>
 
-<!--
-**Shaybush/Shaybush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a target="_blank" align="center">
+  <img align="right" top="300" height="400" width="500" alt="GIF" src="https://dcubedata.com/images/ezgif.com-gif-maker-10.gif">
+</a>
 
-Here are some ideas to get you started:
+- 📚 Own Stack : 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://skillicons.dev/icons?i=angular,nestjs,typescript,bootstrap,rxjs,java,js,mongodb,mysql,nodejs,redux,sass,react,html,css,tailwind,nextjs&perline=7" />
+
+- 📩 Email **shaybush93@gmail.com**
+- 🤝 Open source project collaborations are welcome any time.
+- ⚡ I would like to get tech assistance if needed
+<br/>
+<br/>
+<br/>
+
+
+- 📫 I’m Currently Work In <a target="_blank" href="https://www.1touch.io/">1touch.io</a> as Front End Developer 
+<br/>
+<a target="_blank" href="https://www.1touch.io/">
+  <img align="left" height="400" width="100%" src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/bv1ei7f0fkig81elvl7d">
+</a>
