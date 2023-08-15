@@ -1,11 +1,9 @@
 <h1 align='center'>Hello 👋 Welcome To My Github</h1> 
-<h3 align='center'>Full Stack Developer</h3>
+<h3 align='center'>Shay Bushary Full Stack Developer🧑🏻‍💻</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="300" height="400" width="400" alt="GIF" src="https://dcubedata.com/images/ezgif.com-gif-maker-10.gif">
 </a>
-
-- 📚 Own Stack : 
 
 <img src="https://skillicons.dev/icons?i=angular,nestjs,typescript,bootstrap,rxjs,java,js,mongodb,mysql,nodejs,redux,sass,react,html,css,tailwind,nextjs&perline=7" />
 
