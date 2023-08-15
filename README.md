@@ -2,7 +2,7 @@
 <h3 align='center'>Full Stack Developer</h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="300" height="300" width="400" alt="GIF" src="https://dcubedata.com/images/ezgif.com-gif-maker-10.gif">
+  <img align="right" top="300" height="400" width="400" alt="GIF" src="https://dcubedata.com/images/ezgif.com-gif-maker-10.gif">
 </a>
 
 - 📚 Own Stack : 
