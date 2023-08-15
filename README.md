@@ -18,5 +18,5 @@
 - 📫 I’m Currently Work In <a target="_blank" href="https://www.1touch.io/">1touch.io</a> as Front End Developer 
 <br/>
 <a target="_blank" href="https://www.1touch.io/">
-  <img align="left" height="300" width="100%" src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/bv1ei7f0fkig81elvl7d">
+  <img align="left" height="200" width="500" src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/bv1ei7f0fkig81elvl7d">
 </a>
