@@ -9,7 +9,7 @@
 
 - 📩 Email **shaybush93@gmail.com**
 - 🤝 Open source project collaborations are welcome any time.
-- ⚡ I would like to get tech assistance if needed
+- ⚡ I will be happy to provide technical assistance if needed
 <br/>
 <br/>
 <br/>
